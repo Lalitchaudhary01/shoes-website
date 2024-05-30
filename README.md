@@ -5,7 +5,7 @@
 - Tailwind CSS
   &nbsp;
 
-🔗Link :- https://mayur-shoes.vercel.app/
+🔗Link :- https://shoes-website-beryl.vercel.app/
 
 <bold><h2>ScreenShots : - </h2></bold>
 
